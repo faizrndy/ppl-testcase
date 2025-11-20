@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"EditProductTest::testEditProductSuccess_UpdatePrice":0.005,"EditProductTest::testEditProductNotFound":0.004,"EditProductTest::testEditProductWithNegativePrice":0.009}}
